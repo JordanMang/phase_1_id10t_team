@@ -32,7 +32,7 @@ The BOM table included data on domestic and foreign gross for roughly 3000 movie
 The IMDB DB is best understood through their ERD:
 
 
-![movie_data_erd.jpeg](attachment:movie_data_erd.jpeg)
+![movie_data_erd.jpeg](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/movie_data_erd.jpeg)
 
 The Rotten Tomatoes tables were a table of reviews and a table of the movies reviewed.
 
@@ -45,7 +45,7 @@ The Numbers contained a list of movies, their average rating and the number of v
 
 ### Genre:
 
-![download%20%283%29.png](attachment:download%20%283%29.png)
+![download%20%283%29.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/download%20(3).png)
 
 If the studio wanted to produce a movie in a genre that would lead to the best ROI. As a new studio, movies that can create a strong return may be more important to demonstrate the studio's viability to Mr. Gates.
 If so, movies that don't require a large budget, like a horror, mystery, or musical may be the better option.
@@ -54,9 +54,9 @@ How you select your actors and your directors will play a very big role in how a
 
 ### Actors and Directors:
 
-![download%20%281%29.png](attachment:download%20%281%29.png)
+![download%20%281%29.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/download%20(1).png)
 
-![download-6.png](attachment:download-6.png)
+![download-6.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/download-6.png)
 
 Directors draw in audiences! Zack Snyder, Tim Burton and Ridley Scott create universes that pull in over $100 million in box office. These directors have unique, beloved film-making styles and their fans will come out multiple times to see their films.
 
@@ -64,15 +64,15 @@ Movie star appeal has always been a major box office draw. Actors like Dwayne Jo
 
 ### Release Date:
 
-![test.jpeg](attachment:test.jpeg)
+![test.jpeg](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/test.jpeg)
 
-![Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png](attachment:Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png)
+![Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png)
 
 It is also important to note that the release date of a movie plays a key role in its success. When it comes to the box office, it is important to release your film when the highest number of people have the time to see it and this tends to be located around the holidays. It goes without saying that days like Christmas, Thanksgiving and Memorial Day allow people the freedom to attend movie openings. It should also be said that there is a large boost in the summer when there is more daylight and students are on summer break. 
 
 # Reviews:
 
-![ROI.jpeg](attachment:ROI.jpeg)
+![ROI.jpeg](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/ROI.jpeg)
 
 The production company may not be able to control how it is perceived by the audience and critics, but it is important to note that creating something that is critically acclaimed will actually negatively impact the return on investment. From the graph we can gather that movies that are perceived as an eight, even on the lower end of their ROI, make the most money in box office. At this point we can only hypothesize why this may be but an educated guess would be that the audience would prefer something entertaining rather than something critically acclaimed. You can have confidence that you will have a strong ROI if you see ratings coming in at about an eight out of ten.
 
