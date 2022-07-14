@@ -8,7 +8,7 @@ This repo contains all files, links and supplemental resources needed to access 
 
 In this project we have used exploratory Data Analysis to generate insights on popular movies for our business stakeholder.
 
-Feel free to use the zipped files within the Data folder to run the primary Jupyter Notebook (titled : primary_jupyter_notebook)
+Feel free to use the zipped files within the Data folder to run the primary Jupyter Notebook:  [primary_jupyter_notebook](https://github.com/JordanMang/phase_1_id10t_team/blob/master/primary_notebook.ipynb)
 
 
 ## Business Understanding:
