@@ -64,9 +64,9 @@ Movie star appeal has always been a major box office draw. Actors like Dwayne Jo
 
 ### Release Date:
 
-![test.jpeg](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/finalpbw.jpeg)
+![test.jpeg](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/finalpbw2.jpeg)
 
-![Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/finalpbm.jpeg)
+![Screen%20Shot%202022-07-13%20at%208.45.01%20PM.png](https://github.com/JordanMang/phase_1_id10t_team/blob/master/Images/finalpbm2.jpeg)
 
 It is also important to note that the release date of a movie plays a key role in its success. When it comes to the box office, it is important to release your film when the highest number of people have the time to see it and this tends to be located around the holidays. It goes without saying that days like Christmas, Thanksgiving and Memorial Day allow people the freedom to attend movie openings. It should also be said that there is a large boost in the summer when there is more daylight and students are on summer break. 
 
